@@ -4,4 +4,7 @@
   display: none;
 }
 
-#wall div.tag2
+#wall #tag-2 {
+  display: none;
+}
+
